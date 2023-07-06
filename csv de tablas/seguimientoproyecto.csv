@@ -1,0 +1,51 @@
+seguimiento_id,proyecto_id,fecha_inicio,fecha_finalizacion,plazo_estimado,plazo_real,estado,problemas,acciones_correctivas
+1,1,2023-01-01,2023-02-15,45,46,Concluido,Ninguno,N/A
+2,2,2023-02-01,2023-05-30,120,115,Concluido,Ninguno,N/A
+3,3,2023-03-15,2023-09-30,200,195,"En progreso","Retraso en la entrega de materiales","Reasignación de recursos"
+4,4,2023-04-01,2023-07-15,105,100,Concluido,Ninguno,N/A
+5,5,2023-05-01,2023-11-30,180,185,"En progreso","Variaciones en el diseño","Ajuste en los planos"
+6,6,2023-06-15,2023-10-31,140,135,Concluido,Ninguno,N/A
+7,7,2023-07-01,2023-09-15,75,77,"En progreso","Reasignación de personal","Aceleración en los trabajos"
+8,8,2023-08-01,2023-11-30,120,115,Concluido,Ninguno,N/A
+9,9,2023-09-15,2023-12-31,105,108,"En progreso","Retraso en la entrega de materiales","Ajuste en la programación"
+10,10,2023-10-01,2024-01-31,120,125,"En progreso","Problemas con la licencia de construcción","Negociación con autoridades municipales"
+11,11,2023-11-01,2024-02-29,120,118,"En progreso","Retraso en la entrega de materiales","Reasignación de recursos"
+12,12,2023-12-01,2024-05-31,180,175,"En progreso","Cambios en el diseño","Ajuste en los planos"
+13,13,2024-01-01,2024-07-31,210,205,"En progreso","Problemas con proveedores","Búsqueda de alternativas"
+14,14,2024-02-01,2024-05-15,105,100,Concluido,Ninguno,N/A
+15,15,2024-03-01,2024-09-30,210,215,"En progreso","Retraso en la obtención de permisos","Negociación con autoridades"
+16,16,2024-04-01,2024-08-31,150,145,Concluido,Ninguno,N/A
+17,17,2024-05-01,2024-07-15,75,78,"En progreso","Problemas con subcontratistas","Supervisión más estricta"
+18,18,2024-06-01,2024-09-30,120,115,Concluido,Ninguno,N/A
+19,19,2024-07-01,2024-12-31,180,185,"En progreso","Variaciones en los costos de materiales","Reevaluación del presupuesto"
+20,20,2024-08-01,2024-11-30,120,115,Concluido,Ninguno,N/A
+21,21,2024-09-01,2024-12-15,105,102,"En progreso","Reasignación de personal","Aceleración en los trabajos"
+22,22,2024-10-01,2025-01-31,120,115,Concluido,Ninguno,N/A
+23,23,2024-11-01,2025-04-30,180,175,"En progreso","Cambios en el diseño","Ajuste en los planos"
+24,24,2024-12-01,2025-05-31,180,185,"En progreso","Variaciones en los costos de materiales","Reevaluación del presupuesto"
+25,25,2025-01-01,2025-06-30,180,183,"En progreso","Retraso en la obtención de permisos","Negociación con autoridades"
+26,26,2025-02-01,2025-07-31,180,178,"En progreso","Retraso en la entrega de materiales","Reasignación de recursos"
+27,27,2025-03-01,2025-08-31,180,182,"En progreso","Problemas con proveedores","Búsqueda de alternativas"
+28,28,2025-04-01,2025-09-30,180,185,"En progreso","Variaciones en los costos de materiales","Reevaluación del presupuesto"
+29,29,2025-05-01,2025-10-31,180,183,"En progreso","Retraso en la obtención de permisos","Negociación con autoridades"
+30,30,2025-06-01,2025-11-30,180,178,"En progreso","Cambios en el diseño","Ajuste en los planos"
+31,31,2025-07-01,2025-12-31,180,180,"En progreso","Reasignación de personal","Aceleración en los trabajos"
+32,32,2025-08-01,2026-01-31,180,183,"En progreso","Cambios en el diseño","Ajuste en los planos"
+33,33,2025-09-01,2026-02-28,180,175,"En progreso","Problemas con subcontratistas","Supervisión más estricta"
+34,34,2025-10-01,2026-03-31,180,178,"En progreso","Retraso en la entrega de materiales","Reasignación de recursos"
+35,35,2025-11-01,2026-04-30,180,182,"En progreso","Problemas con proveedores","Búsqueda de alternativas"
+36,36,2026-01-01,2026-06-30,180,178,"En progreso","Retraso en la entrega de materiales","Reasignación de recursos"
+37,37,2026-02-01,2026-07-31,180,182,"En progreso","Cambios en el diseño","Ajuste en los planos"
+38,38,2026-03-01,2026-08-31,180,185,"En progreso","Variaciones en los costos de materiales","Reevaluación del presupuesto"
+39,39,2026-04-01,2026-09-30,180,183,"En progreso","Retraso en la obtención de permisos","Negociación con autoridades"
+40,40,2026-05-01,2026-10-31,180,178,"En progreso","Problemas con subcontratistas","Supervisión más estricta"
+41,41,2026-06-01,2026-11-30,180,175,"En progreso","Problemas con proveedores","Búsqueda de alternativas"
+42,42,2026-07-01,2026-12-31,180,180,"En progreso","Retraso en la entrega de materiales","Reasignación de recursos"
+43,43,2026-08-01,2027-01-31,180,182,"En progreso","Cambios en el diseño","Ajuste en los planos"
+44,44,2026-09-01,2027-02-28,180,178,"En progreso","Problemas con subcontratistas","Supervisión más estricta"
+45,45,2026-10-01,2027-03-31,180,183,"En progreso","Retraso en la obtención de permisos","Negociación con autoridades"
+46,46,2027-04-01,2027-09-30,180,175,"En progreso","Problemas con proveedores","Búsqueda de alternativas"
+47,47,2027-05-01,2027-10-31,180,178,"En progreso","Retraso en la entrega de materiales","Reasignación de recursos"
+48,48,2027-06-01,2027-11-30,180,182,"En progreso","Cambios en el diseño","Ajuste en los planos"
+49,49,2027-07-01,2027-12-31,180,180,"En progreso","Retraso en la obtención de permisos","Negociación con autoridades"
+50,50,2027-08-01,2028-01-31,180,185,"En progreso","Variaciones en los costos de materiales","Reevaluación del presupuesto"

@@ -1,0 +1,57 @@
+id_proyecto,id_cliente,nombre_proyecto,descripcion,fecha_inicio,fecha_finalizacion,estado_proyecto
+1,2,"Centro Comercial Libertad","Construcción de un centro comercial en Guayaquil",2019-09-15,2020-06-30,Finalizado
+2,3,"Hotel Costa del Sol","Construcción de un hotel en Salinas",2017-08-20,2018-12-15,Finalizado
+3,4,"Puente del Guayas","Construcción de un puente sobre el río Guayas en Guayaquil",2016-07-10,2018-03-30,Finalizado
+4,5,"Torres del Sol","Construcción de un complejo residencial en Quito",2019-02-15,2020-09-30,Finalizado
+5,6,"Hospital San Gabriel","Construcción de un hospital en Cuenca",2017-10-20,2019-06-15,Finalizado
+6,7,"Centro Educativo Soluciones","Construcción de un centro educativo en Quito",2016-09-10,2018-05-30,Finalizado
+7,8,"Edificio Torres del Norte","Construcción de un edificio residencial en Guayaquil",2019-07-15,2020-04-30,Finalizado
+8,9,"Complejo Deportivo Ciudadela","Construcción de un complejo deportivo en Quito",2017-06-20,2018-12-15,Finalizado
+9,10,"Centro Comercial Plaza del Sol","Construcción de un centro comercial en Cuenca",2018-09-10,2020-05-30,Finalizado
+10,11,"Edificio Vista Hermosa","Construcción de un edificio residencial en Guayaquil",2019-05-15,2020-12-30,Finalizado
+11,1,"Ampliación Aeropuerto Internacional","Construcción de la ampliación del aeropuerto en Quito",2017-11-20,2019-07-15,Finalizado
+12,13,"Condominio Los Alamos","Construcción de un condominio en Cuenca",2016-08-10,2018-04-30,Finalizado
+13,4,"Hospital La Pradera","Construcción de un hospital en Guayaquil",2019-03-15,2020-10-30,Finalizado
+14,15,"Centro Comercial Mall del Sol","Construcción de un centro comercial en Guayaquil",2018-10-10,2020-06-30,Finalizado
+15,1,"Centro Comercial El Dorado","Construcción de un centro comercial en Quito",2022-02-01,2023-07-30,"En Proceso"
+16,2,"Edificio Residencial Los Pinos","Construcción de un edificio residencial en Guayaquil",2021-08-15,2022-11-30,"En Proceso"
+17,3,"Hospital de la Sierra","Construcción de un hospital en Cuenca",2021-05-20,2022-10-15,"En Proceso"
+18,4,"Torres del Parque","Construcción de un complejo residencial en Quito",2021-10-10,2023-03-31,"En Proceso"
+19,5,"Centro Comercial La Estación","Construcción de un centro comercial en Guayaquil",2021-09-15,2022-12-31,"En Proceso"
+20,6,"Ampliación Hospital San Juan","Ampliación de un hospital en Cuenca",2020-07-01,2021-12-31,Finalizado
+21,7,"Complejo Residencial La Cascada","Construcción de un complejo residencial en Quito",2020-11-15,2022-06-30,"En Proceso"
+22,8,"Centro Comercial Mall del Norte","Construcción de un centro comercial en Ibarra",2022-03-01,2023-09-30,"En Proceso"
+23,9,"Edificio Residencial El Parque","Construcción de un edificio residencial en Guayaquil",2021-07-10,2022-12-15,"En Proceso"
+24,10,"Hospital de la Costa","Construcción de un hospital en Manta",2021-04-20,2022-09-15,"En Proceso"
+25,15,"Ampliación Terminal Aeropuerto Mariscal Sucre","Ampliación de la terminal del aeropuerto en Quito",2022-01-15,2023-06-30,"En Proceso"
+26,12,"Edificio Corporativo La Torre","Construcción de un edificio corporativo en Guayaquil",2021-06-20,2022-11-15,"En Proceso"
+27,13,"Hospital del Valle","Construcción de un hospital en Ambato",2021-03-10,2022-08-31,"En Proceso"
+28,14,"Centro Comercial Mall del Este","Construcción de un centro comercial en Cuenca",2022-02-15,2023-07-30,"En Proceso"
+29,15,"Edificio Residencial Vista Azul","Construcción de un edificio residencial en Guayaquil",2021-07-01,2022-12-31,"En Proceso"
+30,21,"Construcción de Edificio Residencial","Construcción de un edificio residencial de 10 pisos en la ciudad de Quito",2022-01-01,2023-06-30,"En Progreso"
+31,22,"Ampliación de Carretera","Ampliación y mejoramiento de una carretera principal en Guayaquil",2022-03-15,2022-12-31,Planificado
+32,23,"Construcción de Viviendas Sociales","Construcción de viviendas sociales para familias de bajos ingresos en Cuenca",2021-08-01,2022-11-30,Finalizado
+33,24,"Remodelación de Hospital","Remodelación y ampliación de un hospital público en Manta",2022-06-01,2023-09-30,"En Progreso"
+34,25,"Construcción de Centro Comercial","Construcción de un centro comercial de gran envergadura en Guayaquil",2023-02-01,2024-12-31,Planificado
+35,26,"Construcción de Puente","Construcción de un puente peatonal sobre el río Babahoyo en Babahoyo",2022-11-15,2023-08-31,"En Progreso"
+36,27,"Remodelación de Plaza Central","Remodelación de la plaza central de Quito para mejorar la infraestructura y áreas verdes",2023-05-01,2023-10-31,Planificado
+37,28,"Construcción de Hotel Turístico","Construcción de un hotel turístico de lujo en la costa de Esmeraldas",2022-09-01,2024-06-30,"En Progreso"
+38,29,"Ampliación de Aeropuerto","Ampliación y modernización del aeropuerto internacional de Guayaquil",2023-03-15,2024-12-31,Planificado
+39,30,"Construcción de Centro Educativo","Construcción de un centro educativo con instalaciones modernas en Guayaquil",2018-05-01,2019-12-31,Finalizado
+40,31,"Remodelación de Estadio Deportivo","Remodelación y ampliación de un estadio deportivo en Ambato",2019-02-15,2020-10-31,Finalizado
+41,32,"Construcción de Conjunto Habitacional","Construcción de un conjunto habitacional de viviendas sociales en Loja",2020-08-01,2022-11-30,"En Progreso"
+42,33,"Ampliación de Centro Comercial","Ampliación y renovación de un centro comercial en Santo Domingo",2019-06-01,2020-09-30,Finalizado
+43,34,"Construcción de Puente Vehicular","Construcción de un puente vehicular para mejorar la conexión vial en Cuenca",2018-12-01,2019-12-31,Finalizado
+44,35,"Remodelación de Centro Histórico","Remodelación y restauración del centro histórico de Loja",2020-03-15,2021-08-31,Finalizado
+45,36,"Construcción de Complejo Deportivo","Construcción de un complejo deportivo con canchas y áreas recreativas en Esmeraldas",2018-09-01,2019-06-30,Finalizado
+46,37,"Ampliación de Terminal Terrestre","Ampliación y modernización de una terminal terrestre en Babahoyo",2021-03-01,2022-12-31,"En Progreso"
+47,38,"Construcción de Edificio de Oficinas","Construcción de un edificio de oficinas en Guayaquil",2018-11-15,2019-08-31,Finalizado
+48,39,"Construcción de Conjunto Residencial","Construcción de un conjunto residencial de viviendas en Manta",2018-07-01,2019-12-31,Finalizado
+49,40,"Remodelación de Centro Comercial","Remodelación y ampliación de un centro comercial en Guayaquil",2019-04-15,2020-10-31,Finalizado
+50,12,"Construcción de Hotel Turístico","Construcción de un hotel turístico de lujo en Salinas",2020-01-01,2022-06-30,"En Progreso"
+51,9,"Ampliación de Terminal Portuaria","Ampliación y modernización de una terminal portuaria en Manta",2019-09-01,2020-12-31,Finalizado
+52,23,"Construcción de Centro de Convenciones","Construcción de un centro de convenciones en Cuenca",2018-12-01,2019-12-31,Finalizado
+53,34,"Remodelación de Estadio Deportivo","Remodelación y mejoramiento de un estadio deportivo en Esmeraldas",2020-03-15,2021-08-31,"En Progreso"
+54,5,"Construcción de Centro Comercial","Construcción de un centro comercial en Ambato",2018-09-01,2019-06-30,Finalizado
+55,6,"Ampliación de Aeropuerto","Ampliación y modernización del aeropuerto internacional de Quito",2021-03-01,2022-12-31,"En Progreso"
+56,17,"Construcción de Edificio de Oficinas","Construcción de un edificio de oficinas en Santo Domingo",2018-11-15,2019-08-31,Finalizado

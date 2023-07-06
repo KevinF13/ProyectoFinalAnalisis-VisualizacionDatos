@@ -1,0 +1,13 @@
+id_proveedor,nombre_proveedor,direccion,telefono,correo_electronico
+1,Ecuacor,"Av. de los Granados 123, Quito",02-5551111,ventas@ecuacor.com.ec
+2,ConstruMateriales,"Calle del Acero 456, Guayaquil",04-5552222,info@construmateriales.com.ec
+3,Maderplast,"Av. de las Maderas 789, Cuenca",07-5553333,ventas@maderplast.com.ec
+4,"Ferretería El Constructor","Av. de los Herrajes 012, Quito",02-5554444,info@elconstructor.com.ec
+5,"Materiales Ecuador","Calle de los Bloques 456, Guayaquil",04-5555555,ventas@materiales-ecuador.com.ec
+6,"Tubos y Conexiones S.A.","Av. de las Tuberías 789, Quito",02-5556666,info@tubosyconexiones.com.ec
+7,"Materiales San Juan","Calle de los Acabados 012, Guayaquil",04-5557777,ventas@materialessanjuan.com.ec
+8,"Bloques del Valle","Av. de las Construcciones 345, Quito",02-5558888,info@bloquesdelvalle.com.ec
+9,"Ferretería El Constructor","Calle de las Herramientas 678, Cuenca",07-5559999,ventas@elconstructor.com.ec
+10,Construmax,"Av. de los Materiales 901, Quito",02-5551010,info@construmax.com.ec
+11,"Distribuidora de Hierros","Calle del Acero 234, Guayaquil",04-5551111,ventas@distribuidorahierros.com.ec
+12,"Ladrillera del Sur","Av. de los Ladrillos 567, Cuenca",07-5551212,info@ladrilleradelsur.com.ec

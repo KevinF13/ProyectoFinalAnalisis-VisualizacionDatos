@@ -1,0 +1,22 @@
+id_material,nombre_material,descripcion,unidad_medida
+1,Cemento,"Cemento Portland tipo I",Bolsa
+2,Arena,"Arena fina para construcción","Metro cúbico"
+3,Grava,"Grava para mezclas de concreto","Metro cúbico"
+4,Ladrillos,"Ladrillos de arcilla",Unidad
+5,"Bloques de hormigón","Bloques para construcción",Unidad
+6,"Acero corrugado","Varillas de acero corrugado para refuerzo",Kilogramo
+7,"Alambre galvanizado","Alambre de acero galvanizado",Rollo
+8,"Malla de refuerzo","Malla de acero para refuerzo estructural","Metro cuadrado"
+9,"Vidrio templado","Vidrios templados para ventanas","Metro cuadrado"
+10,"Tablero OSB","Tablero OSB para estructuras","Metro cuadrado"
+11,"Fibra de vidrio","Fibra de vidrio para aislamiento térmico",Rollo
+12,Pintura,"Pintura para interiores",Galón
+13,"Varillas de acero","Varillas de acero corrugado",Kilogramo
+14,"Tubos PVC","Tubos de PVC para conducción de agua",Metro
+15,Yeso,"Yeso para revestimientos",Bolsa
+16,"Acero estructural","Perfiles de acero para estructuras",Kilogramo
+17,Cerámica,"Pisos de cerámica","Metro cuadrado"
+18,"Cable eléctrico","Cable para instalaciones eléctricas",Metro
+19,"Arena gruesa","Arena gruesa para construcción","Metro cúbico"
+20,Piedra,"Piedras para cimientos","Metro cúbico"
+21,Tejas,"Tejas para techos",Unidad

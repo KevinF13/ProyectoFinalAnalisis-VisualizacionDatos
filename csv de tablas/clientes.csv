@@ -1,0 +1,41 @@
+id_cliente,nombre_cliente,correo,telefono
+1,"Luis García",luis@example.com,555-1111
+2,"María Torres",maria@example.com,555-2222
+3,"Carlos Martínez",carlos@example.com,555-3333
+4,"Ana Ramírez",ana@example.com,555-4444
+5,"Pedro Gómez",pedro@example.com,555-5555
+6,"Laura Sánchez",laura@example.com,555-6666
+7,"Javier Castro",javier@example.com,555-7777
+8,"Sofía Rodríguez",sofia@example.com,555-8888
+9,"Juanita López",juanita@example.com,555-9999
+10,"Roberto Morales",roberto@example.com,555-1010
+11,"Marcela Hernández",marcela@example.com,555-1212
+12,"Diego Núñez",diego@example.com,555-1313
+13,"Carmen Fuentes",carmen@example.com,555-1414
+14,"Ricardo Castro",ricardo@example.com,555-1515
+15,"Valeria Jiménez",valeria@example.com,555-1616
+16,"Andrés Silva",andres@example.com,555-1717
+17,"Isabel Vargas",isabel@example.com,555-1818
+18,"Hugo Peralta",hugo@example.com,555-1919
+19,"Daniela Ríos",daniela@example.com,555-2020
+20,"José Mendoza",jose@example.com,555-2121
+21,"María Fernández",mariafernandez@example.com,0987654321
+22,"Carlos Rodríguez",carlosrodriguez@example.com,0998765432
+23,"Andrea Gómez",andreagomez@example.com,0976543210
+24,"Luisa Mendoza",luisamendoza@example.com,0965432109
+25,"Juan López",juanlopez@example.com,0954321098
+26,"Alejandra Herrera",alejandraherrera@example.com,0943210987
+27,"Pedro Torres",pedrotorres@example.com,0932109876
+28,"Sofía Castillo",sofiacastillo@example.com,0921098765
+29,"Gabriel Vargas",gabrielvargas@example.com,0910987654
+30,"Valeria Valencia",valeriavalencia@example.com,0909876543
+31,"Eduardo Gutiérrez",eduardogutierrez@example.com,0898765432
+32,"María Fernanda Torres",mariafernandatorres@example.com,0887654321
+33,"Fernando Ruiz",fernandoruiz@example.com,0876543210
+34,"Ana María Velez",anamariavelez@example.com,0865432109
+35,"Julio Cesar Sánchez",juliocesarsanchez@example.com,0854321098
+36,"Camila González",camilagonzalez@example.com,0843210987
+37,"Pablo Gómez",pablogomez@example.com,0832109876
+38,"Laura Mejía",lauramejia@example.com,0821098765
+39,"Diego Navarrete",diegonavarrete@example.com,0810987654
+40,"Carolina Rios",carolinarios@example.com,0809876543

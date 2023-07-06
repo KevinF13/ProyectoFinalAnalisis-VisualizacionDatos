@@ -1,0 +1,54 @@
+id_calificacion,id_proyecto,calificacion,comentario,fecha
+1,1,4,"Buen trabajo",2022-05-15
+2,2,3,"Podría mejorar",2022-06-10
+3,3,5,"Excelente desempeño",2022-07-20
+4,4,2,"No cumplió las expectativas",2022-08-05
+5,5,4,"Trabajo sólido",2022-09-18
+6,6,5,"Muy satisfecho con el resultado",2022-10-01
+7,7,3,"Algunos aspectos a mejorar",2022-11-12
+8,8,4,"Buen desempeño en general",2022-12-03
+9,9,5,"Cumplió todas las expectativas",2023-01-25
+10,10,2,"No recomendado",2023-02-08
+11,11,4,"Satisfecho con el trabajo realizado",2023-03-16
+12,12,3,"Se puede mejorar en algunos aspectos",2023-04-02
+13,13,5,"Excelente servicio",2023-05-09
+14,14,2,"No cumplió las expectativas",2023-06-21
+15,15,4,"Buen rendimiento",2023-07-07
+16,16,5,"Muy satisfecho con los resultados",2023-08-13
+17,17,3,"Algunos inconvenientes durante el proceso",2023-09-28
+18,18,4,Recomendado,2023-10-16
+19,19,5,"Trabajo de calidad",2023-11-25
+20,20,3,"Falto optimizar tiempos",2016-03-18
+21,21,4,"Buen trabajo",2019-01-05
+22,22,3,Regular,2019-02-12
+23,23,5,"Excelente servicio",2019-03-20
+24,24,2,"Mala calidad",2019-04-18
+25,25,4,"Satisfecho con el resultado",2019-05-27
+26,26,3,"Podrían mejorar",2019-06-15
+27,27,5,"Altamente recomendado",2019-07-02
+28,28,2,"No cumplen con los plazos",2019-08-09
+29,29,4,"Buen trato al cliente",2019-09-27
+30,30,3,"Precio justo",2019-10-14
+31,31,5,"Cumplieron todas las expectativas",2019-11-22
+32,32,2,Decepcionante,2019-12-31
+33,33,4,Recomendado,2020-01-08
+34,34,3,Mejorable,2020-02-16
+35,35,5,"Satisfecho con el resultado",2020-03-25
+36,36,2,"Mala experiencia",2020-04-03
+37,37,4,"Buen servicio al cliente",2020-05-11
+38,38,3,"Precio elevado",2020-06-19
+39,39,5,"Cumplen con lo prometido",2020-07-27
+40,40,4,"Buen trato al cliente",2021-04-05
+41,41,4,"Buen trabajo",2020-08-04
+42,42,3,Regular,2020-09-11
+43,43,5,"Excelente servicio",2020-10-19
+44,44,2,"Mala calidad",2020-11-26
+45,45,4,"Satisfecho con el resultado",2020-12-04
+46,46,3,"Podrían mejorar",2021-01-12
+47,48,2,"No cumplen con los plazos",2021-03-28
+48,49,4,"Buen trato al cliente",2021-04-05
+49,50,3,"Precio justo",2021-05-13
+50,51,5,"Cumplieron todas las expectativas",2021-06-21
+51,52,2,Decepcionante,2021-07-29
+52,53,4,Recomendado,2021-08-06
+53,54,3,Mejorable,2021-09-14
